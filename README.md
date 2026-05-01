@@ -1,6 +1,6 @@
-##👋 Hi, I'm Haidy Gabal
+## 👋 Hi, I'm Haidy Gabal
 
-**Software Engineer | .NET Developer **
+**Software Engineer | .NET Developer**
 
 ## 🛠️ Tech Stack
 
