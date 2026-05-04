@@ -2,6 +2,26 @@
 
 **Software Engineer | .NET Developer**
 
+---
+
+## 📄 **My Professional CV**
+
+<div align="center">
+  
+  <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
+    <img src="https://img.shields.io/badge/🌟_VIEW_EXPERIENCE_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&width=300" width="300">
+  </a>
+  
+  <br><br>
+  
+  <sub>✨ Click to open in GitHub's PDF viewer ✨</sub>
+  
+</div>
+
+<br>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend Development:** C#, .NET Core, ASP.NET Core Web API, MVC 
@@ -10,11 +30,4 @@
 
 **Tools & Version Control:** Git, GitHub, Swagger, AutoMapper 
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, Razor Pages 
-
-
-
-<!-- Animated Download Button -->
-<a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf" >
-  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=📄+DOWNLOAD+MY+CV+📄" alt="Download CV" />
-</a>
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, Razor Pages
