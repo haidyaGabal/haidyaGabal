@@ -4,7 +4,7 @@
 
 ---
 
-## 📄 **My Professional CV**
+## 📄 **My CV**
 
 <div align="center">
   
