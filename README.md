@@ -24,6 +24,10 @@
 
 ## 🛠️ Tech Stack
 
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,sqlserver,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
+  </p>
+
 **Backend Development:** C#, .NET Core, ASP.NET Core Web API, MVC 
 
 **Database & ORM:** SQL Server, Entity Framework Core, LINQ 
