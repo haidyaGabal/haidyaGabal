@@ -28,39 +28,22 @@ Passionate .NET Developer focused on building scalable and maintainable web appl
   <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,html,css,js,bootstrap,git,github,swagger,postman&perline=6" style="height:110px;" />
 </p>
 
+## 🛠️ Tech Stack
+
 ### Backend Development
-- C#
-- .NET Core
-- ASP.NET Core Web API
-- ASP.NET MVC
-- RESTful APIs
-- JWT Authentication
-- ASP.NET Identity
+C#, .NET Core, ASP.NET Core Web API, ASP.NET MVC, RESTful APIs, JWT Authentication, ASP.NET Identity
 
 ### Database & ORM
-- SQL Server
-- Entity Framework Core
-- LINQ
+SQL Server, Entity Framework Core, LINQ
 
-### Architecture & Practices
-- N-Tier Architecture
-- Repository Pattern
-- Unit of Work
-- DTOs & AutoMapper
-- Clean Code Principles
+### Architecture & Software Practices
+N-Tier Architecture, Repository Pattern, Unit of Work, DTOs, AutoMapper, Clean Code Principles
 
-### Tools & Version Control
-- Git
-- GitHub
-- Swagger
-- Postman
+### Tools & Development Workflow
+Git, GitHub, Swagger, Postman
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Razor Pages
+### Frontend Development
+HTML, CSS, JavaScript, Bootstrap, Razor Pages
 
 ---
 
