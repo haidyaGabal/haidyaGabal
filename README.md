@@ -30,7 +30,7 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=transparent&hide_border=true&stroke=185FA5&ring=534AB7&fire=0F6E56&currStreakLabel=185FA5&sideLabels=534AB7&dates=888780" />
 </p>
 
 ---
