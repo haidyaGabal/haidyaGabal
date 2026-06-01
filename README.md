@@ -26,7 +26,7 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haidyaGabal&theme=minimal&hide_border=true&color=0F6E56&line=1D9E75&point=534AB7&area=true&area_color=E1F5EE" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haidyaGabal&theme=github-compact&hide_border=true&color=534AB7&line=185FA5&point=0F6E56&area=true" />
 </p>
 
 <p align="center">
