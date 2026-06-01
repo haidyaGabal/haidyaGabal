@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Haidy Gabal</h1>
-<h3 align="center">Software Engineer · .NET Developer · Backend Specialist</h3>
+<h3 align="center">.NET Developer | ASP.NET Core Backend Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Egypt-0F6E56?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ## 🙋 About Me
 
-Passionate **.NET Developer** focused on building scalable and maintainable web applications using **ASP.NET Core** and **SQL Server**. Experienced in developing **RESTful APIs**, applying clean architecture principles, and implementing **secure JWT authentication** systems. Strong backend foundation with hands-on full-stack experience.
+Passionate .NET Developer with hands-on experience building scalable web applications and RESTful APIs using ASP.NET Core, Entity Framework Core, and SQL Server. Skilled in designing maintainable architectures, implementing secure authentication and authorization, and delivering clean, production-ready solutions.
 
 ---
 
