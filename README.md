@@ -1,53 +1,55 @@
-## 👋 Hi, I'm Haidy Gabal
+<h1 align="center">👋 Hi, I'm Haidy Gabal</h1>
+<h3 align="center">Software Engineer · .NET Developer · Backend Specialist</h3>
 
-### Software Engineer | .NET Developer
-
-Passionate .NET Developer focused on building scalable and maintainable web applications using ASP.NET Core and SQL Server. Experienced in developing RESTful APIs, applying clean architecture principles, and implementing secure authentication and authorization systems. Strong foundation in backend development with hands-on experience in full-stack projects and modern development practices.
-
----
-
-## 📄 My CV
-
-<div align="center">
-
-<a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
-  <img src="https://img.shields.io/badge/🌟_VIEW_MY_CV-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" width="280">
-</a>
-
-<br><br>
-
-<sub>✨ Click to view my resume ✨</sub>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,html,css,js,bootstrap,git,github,swagger,postman&perline=6" style="height:110px;" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Egypt-0F6E56?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-ASP.NET_Core-534AB7?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Work-185FA5?style=flat-square" />
 </p>
 
-## 🛠️ Tech Stack
+---
 
-### Backend Development
-C#, .NET Core, ASP.NET Core Web API, ASP.NET MVC, RESTful APIs, JWT Authentication, ASP.NET Identity
+## 🙋 About Me
 
-### Database & ORM
-SQL Server, Entity Framework Core, LINQ
-
-### Architecture & Software Practices
-N-Tier Architecture, Repository Pattern, Unit of Work, DTOs, AutoMapper, Clean Code Principles
-
-### Tools & Development Workflow
-Git, GitHub, Swagger, Postman
-
-### Frontend Development
-HTML, CSS, JavaScript, Bootstrap, Razor Pages
+Passionate **.NET Developer** focused on building scalable and maintainable web applications using **ASP.NET Core** and **SQL Server**. Experienced in developing **RESTful APIs**, applying clean architecture principles, and implementing **secure JWT authentication** systems. Strong backend foundation with hands-on full-stack experience.
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
 
-- GitHub: https://github.com/haidyaGabal
-- LinkedIn: https://www.linkedin.com/in/haidy-gabal
+| Backend | Database & ORM | Architecture | Tools & Frontend |
+|---|---|---|---|
+| C#, .NET Core, ASP.NET Core, REST APIs, JWT, Identity | SQL Server, EF Core, LINQ | N-Tier, Repository Pattern, Unit of Work, AutoMapper, DTOs | Git, Swagger, Postman, HTML, CSS, JS, Bootstrap |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haidyaGabal&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidyaGabal&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
+    <img src="https://img.shields.io/badge/📄_View_My_CV-2C3E50?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://github.com/haidyaGabal"><img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=flat-square&logo=github" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/haidy-gabal"><img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-185FA5?style=flat-square&logo=linkedin" /></a>
+</p>
