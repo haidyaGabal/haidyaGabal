@@ -24,8 +24,9 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
 <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=haidyaGabal&show_icons=true&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" />
