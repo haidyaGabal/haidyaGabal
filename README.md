@@ -25,12 +25,7 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/haidyaGabal?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View_All-185FA5?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=haidyaGabal&style=flat-square&color=534AB7&label=Profile+Views" />
-</p>
+<img src="https://YOUR-VERCEL-APP.vercel.app/api?username=haidyaGabal&show_icons=true&hide_border=true" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" />
