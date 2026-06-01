@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · .NET Developer · Backend Specialist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Egypt-0F6E56?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Egypt-0F6E56?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-ASP.NET_Core-534AB7?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_to-Work-185FA5?style=flat-square" />
 </p>
@@ -26,12 +26,12 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidyaGabal&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haidyaGabal&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidyaGabal&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 
 <p align="center">
   <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
-    <img src="https://img.shields.io/badge/📄_View_My_CV-2C3E50?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -49,7 +49,11 @@ Passionate **.NET Developer** focused on building scalable and maintainable web 
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://github.com/haidyaGabal"><img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/haidyaGabal">
+    <img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=flat-square&logo=github&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/haidy-gabal"><img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-185FA5?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/haidy-gabal">
+    <img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
