@@ -30,7 +30,7 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=haidyaGabal&theme=transparent&hide_border=true&stroke=185FA5&ring=534AB7&fire=0F6E56&currStreakLabel=185FA5&sideLabels=534AB7&dates=888780" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haidyaGabal&theme=transparent&hide_border=true&stroke=185FA5&ring=534AB7&fire=0F6E56&currStreakLabel=185FA5&sideLabels=534AB7&dates=888780" />
 </p>
 
 
