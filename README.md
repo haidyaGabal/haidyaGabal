@@ -30,10 +30,6 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/haidyaGabal?style=flat-square&logo=github&label=Followers&color=534AB7&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/haidyaGabal?style=flat-square&logo=github&label=Stars&color=185FA5&logoColor=white" />
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=haidyaGabal&style=flat-square&color=0F6E56&label=Profile+Views" />
 </p>
 
