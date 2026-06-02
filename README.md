@@ -30,10 +30,10 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidyaGabal&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haidyaGabal&show_icons=true&hide_border=true&title_color=534AB7&icon_color=185FA5&text_color=444441&ring_color=0F6E56" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidyaGabal&layout=compact&hide_border=true&title_color=534AB7&text_color=444441" />
 </p>
-
----
 
 ## 📄 Resume
 
