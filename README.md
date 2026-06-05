@@ -38,7 +38,15 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=534AB7&center=true&vCenter=true&width=435&lines=Let's+connect+and+collaborate!;Open+to+new+opportunities;Feel+free+to+reach+out!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&animation=twinkling" />
+</p>
+
+<p align="center">
   <a href="https://github.com/haidyaGabal">
     <img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=plastic&logo=github&logoColor=white" />
   </a>
@@ -50,4 +58,8 @@ Passionate .NET Developer with hands-on experience building scalable web applica
   <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
     <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=plastic&logo=googledrive&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&animation=twinkling" />
 </p>
