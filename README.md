@@ -40,14 +40,14 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 
 <p align="left">
   <a href="https://github.com/haidyaGabal">
-    <img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-haidyaGabal-2C2C2A?style=plastic&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/haidy-gabal">
-    <img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-0077B5?style=plastic&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
-    <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=plastic&logo=googledrive&logoColor=white" />
   </a>
 </p>
