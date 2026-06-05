@@ -36,17 +36,7 @@ Passionate .NET Developer with hands-on experience building scalable web applica
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
-    <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/haidyaGabal">
@@ -55,5 +45,9 @@ Passionate .NET Developer with hands-on experience building scalable web applica
   &nbsp;
   <a href="https://www.linkedin.com/in/haidy-gabal">
     <img src="https://img.shields.io/badge/LinkedIn-haidy--gabal-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/haidyaGabal/haidyaGabal/blob/main/HaidyGabal_JuniorDotNetDeveloper.pdf">
+    <img src="https://img.shields.io/badge/View_My_CV-2C3E50?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 </p>
